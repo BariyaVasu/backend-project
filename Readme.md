@@ -30,7 +30,7 @@ server/
 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/BariyaVasu/backend-project.git
 ```
 
 2. Navigate to project
