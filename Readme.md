@@ -8,8 +8,8 @@ This is a simple backend built using **Node.js** and **Express.js** that provide
 
 ## 🛠️ Tech Stack
 
-* Node.js
-* Express.js
+- Node.js
+- Express.js
 
 ---
 
@@ -95,28 +95,28 @@ You can change the port using environment variables.
 
 ## ❗ Error Handling
 
-* Basic error handling is implemented
-* Returns JSON response
+- Basic error handling is implemented
+- Returns JSON response
 
 ---
 
 ## 📌 Notes
 
-* This is a simple demo API
-* No database is used
-* Data is hardcoded
+- This is a simple demo API
+- No database is used
+- Data is hardcoded
 
 ---
 
 ## 🚀 Future Improvements
 
-* Add MongoDB database
-* Add CRUD operations (Create, Update, Delete)
-* Add authentication
-* Add validation
+- Add MongoDB database
+- Add CRUD operations (Create, Update, Delete)
+- Add authentication
+- Add validation
 
 ---
 
 ## 👨‍💻 Author
 
-Your Name
+Bariya Vasu
